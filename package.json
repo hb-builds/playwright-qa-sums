@@ -1,0 +1,10 @@
+{
+  "name": "playwright-qa-sums",
+  "version": "1.0.0",
+  "scripts": {
+    "sum": "node run-sum.js"
+  },
+  "dependencies": {
+    "playwright": "^1.35.0"
+  }
+}
